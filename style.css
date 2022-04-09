@@ -25,6 +25,12 @@ body {
   color: black;
 }
 
+/* Header style */
+.head {
+  text-align: center;
+  background-color: #EADDCA;
+}
+
 .active {
   background-color: #8c8c8c;
 }
