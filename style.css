@@ -28,7 +28,14 @@ body {
 /* Header style */
 .head1 {
   text-align: center;
-  color: red;
+  background-color: #AFE1AF;
+  h1.solid {border-style: solid;}
+}
+
+/* Home Page Section 1 Style */
+.homesec1 {
+  text-align: center;
+  background-color: #303033;
 }
 
 .active {
