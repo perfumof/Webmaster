@@ -12,6 +12,7 @@ h1, h2, h3, h4, p {
   overflow: hidden;
   background-color: black;
   position: fixed;
+  width: 100%;
 }
 
 /* Style the nav links */
