@@ -8,11 +8,15 @@ h1, h2, h3, h4, p {
     margin: 0;
 }
 
+.top {
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
 .nav {
   overflow: hidden;
   background-color: black;
-  position: fixed;
-  width: 100%;
 }
 
 /* Style the nav links */
@@ -32,7 +36,7 @@ h1, h2, h3, h4, p {
 }
 
 .active {
-  background-color: #8c8c8c;
+  background-color: #00A36C;
 }
 
 ul {
@@ -60,8 +64,16 @@ ul {
 }
 
 /* Home Page Section 1 Style */
-.homesec1 {
+.darksec {
+  line-height: 1.8;
   text-align: center;
   background-color: #303033;
   color: #E1DFDB;
+}
+
+.lightsec {
+  line-height: 1.8;
+  text-align: center;
+  background-color: #E1DFDB;
+  color: #303033;
 }
