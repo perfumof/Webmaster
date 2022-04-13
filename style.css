@@ -44,12 +44,13 @@ ul {
 .head1 {
   text-align: center;
   background-color: #AFE1AF;
+  font-color: #333;
 }
 
 /* header box */
 .headbox {
   margin: auto;
-  width: 30%;
+  width: 50%;
   border: 3px solid #73AD21;
   padding: 30px;
   text-align: center;
