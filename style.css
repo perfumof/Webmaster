@@ -12,6 +12,7 @@ h1, h2, h3, h4, p {
   position: fixed;
   width: 100%;
   top: 0;
+  background-color: white;
 }
 
 .nav {
@@ -52,7 +53,7 @@ ul {
   font-color: #333;
 }
 
-/* header box */
+/* Header box */
 .headbox {
   margin: auto;
   width: 50%;
@@ -63,7 +64,7 @@ ul {
   font-size: 60px; 
 }
 
-/* Home Page Section 1 Style */
+/* Basic Sections */
 .darksec {
   line-height: 1.8;
   text-align: center;
@@ -76,4 +77,25 @@ ul {
   text-align: center;
   background-color: #E1DFDB;
   color: #303033;
+}
+
+/* Button Style */
+.buttondark {
+  background-color: #E1DFDB;
+  color: #303033;
+  border: none;
+  padding: 15px 60px;
+  text-align: center;
+  cursor: pointer;
+  font-family: serif;
+}
+
+.buttonlight {
+  background-color: #303033;
+  color: #E1DFDB;
+  border: none;
+  padding: 15px 60px;
+  text-align: center;
+  cursor: pointer;
+  font-family: serif;
 }
