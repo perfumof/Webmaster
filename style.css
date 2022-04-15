@@ -106,3 +106,38 @@ ul {
   font-family: serif;
   font-size: 1em;
 }
+
+/* 2 columns */
+.rowtwo {
+  display: flex;
+}
+
+.columntwo {
+  flex: 50%;
+}
+
+/* 3 columns */
+.columnthree {
+  float: left;
+  width: 33.33%;
+}
+
+
+.rowthree:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* 4 columns */
+.columnfour {
+  float: left;
+  width: 25%;
+}
+
+
+.rowfour:after {
+  content: "";
+  display: table;
+  clear: both;
+}
