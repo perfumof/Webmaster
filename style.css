@@ -54,8 +54,8 @@ ul {
 /* Header style */
 .head1 {
   text-align: center;
-  background-image: url("pexels-pixabay-414320.jpg");
-  font-color: white;
+  background-image: url("pexels-magda-ehlers-636353.jpg");
+  font-color: black;
 }
 
 /* Header box */
@@ -65,8 +65,8 @@ ul {
   border: 5px solid #73AD21;
   padding: 30px;
   text-align: center;
-  font-color:white;
-  border-color: white;
+  font-color:black;
+  border-color: black;
   font-size: 60px; 
 }
 
